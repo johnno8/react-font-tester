@@ -1,0 +1,93 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: white;
+}
+
+.HeadingDiv {
+  margin: auto;
+  width: 70%;
+  text-align: left;
+  color: white;
+}
+
+.Input {
+  margin: auto;
+  height: 50px;
+  width: 70%;
+  border: 3px solid #BF4E24; /*scheme4*/
+  padding: 10px 0;
+  text-align: left;
+  text-indent: 5px;
+  font-size: 150%;
+}
+
+.TextBox {
+  margin: auto;
+  margin-top: 10px;
+  height: 50px;
+  width: 70%;
+  border: 3px solid #BF4E24; /*scheme4*/
+  text-align: left;
+  text-indent: 5px;
+  font-size: 150%;
+  background-color: white;
+
+}
+
+.FontName {
+  width: 25%;
+  float: left;
+  height: 50px;
+  font-size: 80%;
+  line-height: 50px;
+  background-color: #BF4E24; /*scheme4*/
+  color: white;
+  text-align: center;
+}
+
+.FontText {
+  width: 75%;
+  float: right;
+  line-height: 50px;
+  background-color: white;
+}
+
+/*.Font1 {*/
+  /*font: "Helvetica";*/
+/*}*/
+
+/*.Font2 {*/
+  /*font: "Times New Roman";*/
+/*}*/
+
+/*
+.FontDisplay {
+  text-align: center;
+  height: 50px;
+  width: 500px;
+  border: 3px solid lightsteelblue;
+}*/
+
+/*.App-logo {*/
+  /*animation: App-logo-spin infinite 20s linear;*/
+  /*height: 80px;*/
+/*}*/
+
+/*.App-header {*/
+  /*background-color: #222;*/
+  /*height: 150px;*/
+  /*padding: 20px;*/
+  /*color: white;*/
+/*}*/
+
+/*.App-intro {*/
+  /*font-size: large;*/
+/*}*/
+
+/*@keyframes App-logo-spin {*/
+  /*from { transform: rotate(0deg); }*/
+  /*to { transform: rotate(360deg); }*/
+/*}*/
