@@ -53,6 +53,9 @@ h1 {
   float: right;
   line-height: 50px;
   background-color: white;
+  white-space: nowrap;      /*keep the text on one line*/
+  overflow: hidden;         /*prevent the text from being shown outside the border*/
+  text-overflow: ellipsis;
 }
 
 /*.Font1 {*/
